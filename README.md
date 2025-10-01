@@ -107,14 +107,6 @@ Server runs by default on:
 
 ---
 
-## 🤝 Contribution
-
-1. Fork the repo
-2. Create a branch (`feature-xyz`)
-3. Commit changes
-4. Push & create a PR
-
----
 
 ## 📜 License
 
